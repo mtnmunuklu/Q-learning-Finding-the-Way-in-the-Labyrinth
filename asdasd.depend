@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1489094976 source:c:\users\sylar\desktop\3.sýnýf projeler\yazýlým lab\yazlabii_1\ornekgirdiler\asdasd\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1490261898 source:c:\users\sylar\desktop\3.sýnýf projeler\yazýlým lab\yazlabii_1\ornekgirdiler\yazlabprojesiasil\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<graphics.h>
+
